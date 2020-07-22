@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Menu extends Component {
+class Nav extends Component {
   render() {
     return (
       <div className="App" >
@@ -10,4 +10,4 @@ class Menu extends Component {
   };
 }
 
-export default Menu;
+export default Nav;
